@@ -41,5 +41,11 @@ window.addEventListener('DOMContentLoaded', event => {
             }
         });
     });
-
 });
+
+function mudarIdioma(idioma) {
+    traduzir(idioma);
+}
+
+
+
