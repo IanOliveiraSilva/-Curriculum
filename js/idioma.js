@@ -65,6 +65,16 @@ const idiomas = {
         adquiridos durante o curso foram inestimáveis na formação da minha expertise em Sistemas para Internet.`,
         'internet-systems-date': 'Janeiro de 2022 - Dezembro de 2023',
 
+        'game-development-degree': 'Pós-graduação em Desenvolvimento de Jogos',
+        'game-development-description': `Cursando um programa avançado de pós-graduação em Desenvolvimento de Jogos na
+        Universidade Cruzeiro do Sul Virtual. Durante o curso, terei cadeiras com variedade de tópicos essenciais,
+        incluindo design de jogos, programação de jogos, gráficos 3D, inteligência artificial aplicada a jogos e
+        teste de qualidade. A pós proporciona uma sólida compreensão teórica e prática, capacitando-me a
+        criar jogos envolventes e interativos. A experiência adquirida durante a pós-graduação irá contribuir
+        significativamente para o aprimoramento das minhas habilidades no emocionante campo do desenvolvimento de jogos.`,
+        'game-development-date': 'Fevereiro de 2024 - Março de 2025',
+
+
         'java-course-title': 'Java COMPLETO 2023 - Programação Orientada a Objetos + Projetos',
         'java-course-subtitle': 'Curso Udemy ministrado pelo Professor Nelio Alves',
         'java-course-description': `Concluí o abrangente curso da Udemy sobre programação em Java, ministrado pelo Professor Nelio Alves.
@@ -216,6 +226,17 @@ const idiomas = {
         for a dynamic and evolving field. The hands-on experience and theoretical knowledge acquired
         during the course have been invaluable in shaping my expertise in Internet Systems.`,
         'internet-systems-date': 'January 2022 - December 2023',
+
+
+        'game-development-degree': 'Postgraduate Program in Game Development',
+        'game-development-description': `Currently enrolled in an advanced postgraduate program in Game Development at
+        Cruzeiro do Sul Virtual University. Throughout the program, I will be exposed to a variety of essential topics,
+        including game design, game programming, 3D graphics, artificial intelligence applied to games, and
+        quality testing. The postgraduate program provides a solid theoretical and practical understanding, empowering me
+        to create engaging and interactive games. The experience gained during the postgraduate studies will significantly
+        contribute to enhancing my skills in the exciting field of game development.`,
+        'game-development-date': 'February 2024 - March 2025',
+
 
         'java-course-title': 'Java COMPLETE 2023 - Object-Oriented Programming + Projects',
         'java-course-subtitle': 'Udemy Course by Professor Nelio Alves',

@@ -11482,6 +11482,7 @@ section.resume-section .resume-section-content {
     border: 1px solid #fff;
     border-radius: 4px;
     transition: transform 0.3s ease-in-out;
+}
 
 .icon-flag:hover {
     transform: scale(1.1);
